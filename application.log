@@ -1,0 +1,503 @@
+2018-07-29 08:47:25 INFO  ContactsPageTests:36 - ******************Before login to the page************
+2018-07-29 08:48:04 INFO  ContactsPageTests:36 - ******************Before login to the page************
+2019-02-15 09:40:52 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="about:blank", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:40:52 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(about:blank)@692743054
+2019-02-15 09:40:52 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:40:53 DEBUG EncodingSniffer:626 - Encoding found in HTTP headers: 'UTF-8'.
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgForeignObject to SVGForeignObjectElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to ApplicationCache
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeDiffuseLighting to SVGFEDiffuseLightingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSpan to HTMLSpanElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeColorMatrix to SVGFEColorMatrixElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDivision to HTMLDivElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTime to HTMLTimeElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeDistantLight to SVGFEDistantLightElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFrameSet to HTMLFrameSetElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlOption to HTMLOptionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeFlood to SVGFEFloodElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBase to HTMLBaseElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMap to HTMLMapElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSelect to HTMLSelectElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgMetadata to SVGMetadataElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgUse to SVGUseElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHorizontalRule to HTMLHRElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgRadialGradient to SVGRadialGradientElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeMergeNode to SVGFEMergeNodeElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDialog to HTMLDialogElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTemplate to HTMLTemplateElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDirectory to HTMLDirectoryElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to XPathNSResolver
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlForm to HTMLFormElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlOutput to HTMLOutputElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlUnorderedList to HTMLUListElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeFuncA to SVGFEFuncAElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to External
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlVideo to HTMLVideoElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlInlineFrame to HTMLIFrameElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgTextPath to SVGTextPathElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBreak to HTMLBRElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomDocumentFragment to DocumentFragment
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeConvolveMatrix to SVGFEConvolveMatrixElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgPolygon to SVGPolygonElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFrame to HTMLFrameElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAnchor to HTMLAnchorElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgLinearGradient to SVGLinearGradientElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeComponentTransfer to SVGFEComponentTransferElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTitle to HTMLTitleElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgPath to SVGPathElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgEllipse to SVGEllipseElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDetails to HTMLDetailsElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomProcessingInstruction to ProcessingInstruction
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to HTMLOptionsCollection
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeComposite to SVGFECompositeElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMeta to HTMLMetaElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgMarker to SVGMarkerElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgDefs to SVGDefsElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDataList to HTMLDataListElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeTile to SVGFETileElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomText to Text
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDefinitionList to HTMLDListElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFePointLight to SVGFEPointLightElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlOrderedList to HTMLOListElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlOptionGroup to HTMLOptGroupElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFont to HTMLFontElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlPicture to HTMLPictureElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlLabel to HTMLLabelElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgCircle to SVGCircleElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomCDataSection to CDATASection
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlImage to HTMLImageElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to CSSGroupingRule
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgAnimateTransform to SVGAnimateTransformElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMarquee to HTMLMarqueeElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeMorphology to SVGFEMorphologyElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlContent to HTMLContentElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFilter to SVGFilterElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTextArea to HTMLTextAreaElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomComment to Comment
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlObject to HTMLObjectElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgPattern to SVGPatternElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBody to HTMLBodyElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgTSpan to SVGTSpanElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeMerge to SVGFEMergeElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlInlineQuotation to HTMLQuoteElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBlockQuote to HTMLQuoteElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlInput to HTMLInputElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeSpecularLighting to SVGFESpecularLightingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomAttr to Attr
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to SpeechSynthesis
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableColumnGroup to HTMLTableColElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableColumn to HTMLTableColElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlCaption to HTMLTableCaptionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlUnknownElement to HTMLUnknownElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMenu to HTMLMenuElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDeletedText to HTMLModElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlInsertedText to HTMLModElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlListItem to HTMLLIElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to CSSConditionRule
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlStyle to HTMLStyleElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlEmbed to HTMLEmbedElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgElement to SVGElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgMask to SVGMaskElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAudio to HTMLAudioElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgSymbol to SVGSymbolElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHtml to HTMLHtmlElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to SVGGeometryElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlProgress to HTMLProgressElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to DOMRect
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to SVGGraphicsElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableRow to HTMLTableRowElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to Geolocation
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to BaseAudioContext
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMeter to HTMLMeterElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlButton to HTMLButtonElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading1 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading3 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading5 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading4 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading6 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeading2 to HTMLHeadingElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlLegend to HTMLLegendElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeOffset to SVGFEOffsetElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSvg to SVGSVGElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to FontFaceSet
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFieldSet to HTMLFieldSetElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgTitle to SVGTitleElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomElement to Element
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgStyle to SVGStyleElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgImage to SVGImageElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to Console
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to EventTarget
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.DomDocumentType to DocumentType
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSource to HTMLSourceElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlParagraph to HTMLParagraphElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to StyleMedia
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgSwitch to SVGSwitchElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeImage to SVGFEImageElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgLine to SVGLineElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeGaussianBlur to SVGFEGaussianBlurElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgSet to SVGSetElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTable to HTMLTableElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMain to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlCenter to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSmall to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlPlainText to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFigure to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlRt to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBaseFont to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlEmphasis to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNoEmbed to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTeletype to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlRp to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDefinition to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNoLayer to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSample to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlWordBreak to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlKeyboard to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBidirectionalIsolation to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBidirectionalOverride to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBig to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAcronym to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDefinitionTerm to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNoScript to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNav to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlCode to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlBold to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlStrong to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlArticle to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAddress to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlS to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlItalic to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlCitation to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFooter to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlDefinitionDescription to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSuperscript to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlFigureCaption to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlLayer to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSummary to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSubscript to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAside to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlVariable to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlRuby to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlMark to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNoBreak to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlNoFrames to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSection to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlAbbreviated to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlUnderlined to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHeader to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlStrike to HTMLElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTrack to HTMLTrackElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to Performance
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgText to SVGTextElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgStop to SVGStopElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgView to SVGViewElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgScript to SVGScriptElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlScript to HTMLScriptElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgMPath to SVGMPathElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgPolyline to SVGPolylineElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeFuncG to SVGFEFuncGElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping java.lang.Object to DOMRectList
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeFuncR to SVGFEFuncRElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlParameter to HTMLParamElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeBlend to SVGFEBlendElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgRect to SVGRectElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableCell to HTMLTableCellElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgDesc to SVGDescElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgGroup to SVGGElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgAnimateMotion to SVGAnimateMotionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgAnchor to SVGAElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgAnimate to SVGAnimateElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlLink to HTMLLinkElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeTurbulence to SVGFETurbulenceElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlHead to HTMLHeadElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeDisplacementMap to SVGFEDisplacementMapElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlArea to HTMLAreaElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableFooter to HTMLTableSectionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableHeader to HTMLTableSectionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlTableBody to HTMLTableSectionElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlSlot to HTMLSlotElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlData to HTMLDataElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgClipPath to SVGClipPathElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeFuncB to SVGFEFuncBElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlListing to HTMLPreElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlExample to HTMLPreElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlPreformattedText to HTMLPreElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.svg.SvgFeSpotLight to SVGFESpotLightElement
+2019-02-15 09:40:53 DEBUG AbstractJavaScriptConfiguration:365 - Mapping com.gargoylesoftware.htmlunit.html.HtmlCanvas to HTMLCanvasElement
+2019-02-15 09:40:53 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="https://www.freecrm.com/login.cfm", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:40:53 DEBUG WebClient:1348 - Load response for GET https://www.freecrm.com/login.cfm
+2019-02-15 09:40:54 DEBUG RequestAddCookies:123 - CookieSpec selected: mine
+2019-02-15 09:40:54 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 0 of 6; total allocated: 0 of 20]
+2019-02-15 09:40:54 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:40:54 DEBUG MainClientExec:235 - Opening connection {s}->https://www.freecrm.com:443
+2019-02-15 09:40:54 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to www.freecrm.com/104.28.5.47:443
+2019-02-15 09:40:54 DEBUG HtmlUnitSSLConnectionSocketFactory:337 - Connecting socket to www.freecrm.com/104.28.5.47:443 with timeout 20000
+2019-02-15 09:40:54 DEBUG HtmlUnitSSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-02-15 09:40:54 DEBUG HtmlUnitSSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-02-15 09:40:54 DEBUG HtmlUnitSSLConnectionSocketFactory:395 - Starting handshake
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:425 - Secure session established
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:435 -  peer principal: CN=sni40264.cloudflaressl.com, OU=PositiveSSL Multi-Domain, OU=Domain Control Validated
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:444 -  peer alternative names: [sni40264.cloudflaressl.com, *.bibleblackjack.com, *.callfriends.com, *.crmpro.com, *.eliterealty.land, *.federalagent.org, *.femininex.com, *.freecrm.com, *.fundinmental.com, *.general-assistance.tk, *.guillaume.ninja, *.hoodrobbed.gq, *.ironmaple.com, *.lahren.com, *.langhamauctioneers.com, *.pusheduninterested.cf, *.share-estate.tk, *.telesocial.com, *.toysupermarket.ie, *.vipnetworks.com, *.zodiacstone.com, bibleblackjack.com, callfriends.com, crmpro.com, eliterealty.land, federalagent.org, femininex.com, freecrm.com, fundinmental.com, general-assistance.tk, guillaume.ninja, hoodrobbed.gq, ironmaple.com, lahren.com, langhamauctioneers.com, pusheduninterested.cf, share-estate.tk, telesocial.com, toysupermarket.ie, vipnetworks.com, zodiacstone.com]
+2019-02-15 09:40:55 DEBUG HtmlUnitSSLConnectionSocketFactory:448 -  issuer principal: CN=COMODO ECC Domain Validation Secure Server CA 2, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB
+2019-02-15 09:40:55 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 192.168.1.7:52175<->104.28.5.47:443
+2019-02-15 09:40:55 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 20000
+2019-02-15 09:40:55 DEBUG MainClientExec:256 - Executing request GET /login.cfm HTTP/1.1
+2019-02-15 09:40:55 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-02-15 09:40:55 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-02-15 09:40:55 DEBUG headers:133 - http-outgoing-0 >> GET /login.cfm HTTP/1.1
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Host: www.freecrm.com
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Upgrade-Insecure-Requests: 1
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Accept-Encoding: gzip, deflate
+2019-02-15 09:40:55 DEBUG headers:136 - http-outgoing-0 >> Accept-Language: en-US
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "GET /login.cfm HTTP/1.1[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Host: www.freecrm.com[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Upgrade-Insecure-Requests: 1[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip, deflate[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "Accept-Language: en-US[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 >> "[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "HTTP/1.1 404 Not Found[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Date: Fri, 15 Feb 2019 17:41:05 GMT[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Content-Type: text/html[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Transfer-Encoding: chunked[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Set-Cookie: __cfduid=dd1b36f9c22ae9ca4b426659631296ee51550252465; expires=Sat, 15-Feb-20 17:41:05 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Last-Modified: Tue, 16 May 2017 18:44:45 GMT[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Server: cloudflare[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "CF-RAY: 4a999033cbf3952f-NRT[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "342[\r][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8c]Tmo[0xe2]8[0x10][0xfe][0xce][0xaf][0x98][0x1a][0x9d][0xf6][0xcb]%[0xe][0x14][0xba][0x90]&[0x91][0xae][0x94]jWj[0xbb][0x88][0xa5][0xda][0xeb]G[0x93]L[0x12]o[0x83][0x9d][0xda][0xa6][0x84]C[0xfb][0xdf]WNx[0xad][0xe8][0xdd][0x8d][0xa5][0xc4]/[0xf3][0xcc][0x8c][0x9f][0x19]Opq[0xfb]m4{[0x9e][0x8c]!7[0x8b][0x2]&O7[0xf7]_G@[0x1c]J\[0x8e]([0xbd][0x9d][0xdd][0xc2][0xdf]_f[0xf][0xf7][0xd0]q=[0x98])&47\[\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "VP:~$-[0x0] [0xb9]1[0xa5]O[0xe9]j[0xb5]rW[0x97][0xae]T[0x19][0x9d]Mie[0xcd]u,~;u[0xcc][0x11][0xd8]MLB[0xa2]VP[0xfb][0xac][0x16][0x85][0xd0][0xe1][0x19]3[0x9d][0xe1]p[0xd8][0xa0][0x89]U[0xf2][0xb]&[0xb2][0x90][0xa0] [0xb0][0x9f]Y[0x1b][0xc8][0x92][0xa8][0x15][0x18]n[\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "[0x8c][0xc6][0xd3][0xe9][0xb7])[0xf4][0xbc][0x1e]8[0xf0]([\r][0xdc][0xc9][0xa5]H.[0x2][0xda][0x9c][0xb6][0x82][0x5][0x1a][0x6][0xd6][0x93][0x83][0xaf]K[0xfe][0x16][0x92][0x91][0x14][0x6][0x85]qf[0xeb][0x12][0x9][0xc4][0xcd]*$[0x6]+C[0xad][0xe7]k[0x88]s[0xa6]4[0x9a]piRg@[0x80][0xee][0xac][0x8][0xb6][0xc0][0x90](9[0x97]F[0x1f]![0x85][0xe4]"[0xc1][0xaa]Q[0xd4][0xb1][0xe2][0xa5][0x1][0xad][0xe2][0x90][0xd0]8[0x11]N[0x9c]q[0xca][0xca]RS[0x1b]5[0xfd][0x99]N[0x9e]y[0xfa][0xfa]r3[0x18]O[0xd6][0xf3][0x1f][0x97][0xf]7[0x8f]/[0xcf][0xf]7[0x8f]X>[0xb9]?5[0x89][0x2][0xda][0x18][0x88][0x2]m[0xd6][0x5][0x82]Y[0x97][0xb8][0x8d]-[0xd6][0xf6][0xfc][0xc2]ql[\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "`.[0x93]5l[0xea][0xa9][0x95]X[0x16]R[0xf9][0xd0][0xee][0xd5]r[0xbd][0xdf][0x9f][0xb3][0xf8]%S[0x96][0x12]g[0xa7]2[0xae][0xe5][0xa0][0x92]Ja[0x9c][0x94]-x[0xb1][0xf6][0xe1][0xd3]L[0xe1]|[0x19][0xe7]h[0xe0][0xe1][0xfb][0xa7]?A3[0xa1][0x1d][0x8d][0x8a][0xa7][0xef][0x0][0x9a][0xff][0x83]>[0xc][0xbc]?[0x9a][0xfd]_[0xf5]7[0xef][0xc0]f;[0xeb][0xc2][0xe6]X[0xb1][0xe3]vqq[0xbd]Uk[0x97],[0xc3][0xcd][0xbf][0xc5]xW[0xcb][0xc1][0xe5][0x8a]'&[0xf7][0xe1]j[0xe7][0xce][0xca][0x82][0xa9][0x8c][0xb][0x1f][0xba][0xbd][0xb2][0x2][0xb6]4[0xf2]pT[0xb2]$[0xe1]"[0xf3][0xa1][0xd3]-[0xab][0xe3][0x0][0xdb]6[0x9][0xa8][0x8e][0x88][0xdb][0xab]^[0x95][0x15][0x1c],X[0xc6][0x1d]V[0xf0]L[0xf8][0x10][0xa3]0[0xa8][0x8e][0xcd][0xb8][0xda]0[0xb3][0xd4][0x97]U[0x5][0x9b]s[0xe1][0xf7]>[0xf7][0xbd][0xcf]W[0xd7][0xf0][0xee]:[0xa7][0xe8][0xde]G[0xe8]Q[0xbf][0xef][0xf5][0xba][0xff][0x81][0xee][0x84][0xbe][0xeb][0x8e][0x7][0x9d][0xbf][0xe]h[0xaf][0x96]=[0xf5][0xdb][0xaa]=[0xc7][0x80][0xe5][0xd1]k[0xe8][0xf4]NHK[0xa5]4'[0xa4][0xed]l_[0xd5]r[0xae][0xda]|h[0xa7]C;[0xce]%[0xc5]++[0xe8]z[0xbb][0xcc]4[0xd5][0xac][0x12]T[0x8e][0x91][0xa5][0xf][0xfd][0xb2][0x82]6[0xa6]v[0x80][0x96][0x5]O[0xce]V[0x9e][0xe7][0xe]p[0xf1][0xf3][0xb5][0xbb][0x1];s[0x87]a-[0xc7][0xda][0x8e]c[0x9f][0xa1]}~Q+[0xa0][0xdb]fc[0xdf][[0xd4][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "[0x12][0xfe][0x6]<[0x9][0x89][0xad]`r[0xb4]n[0xea][0x8a]@\0[0xad]C[0xb2][0xcf]p[0xdd][0xae]:[0x1f]6[0xa9][0xbc]c]$[0xfc][0xed][0xc8][0xd4]6C5[0xb2][0x1b][0xcd]r[0x84]T[0x16][0x85]\q[0x91][0x1]*%[0x15][0xc8]8^*[0x85][0x89][0x1f][0xd0][0xbc][0x1b][0xb5][0x82][0xb2][0xd6]R[0xf8][0xba]Dm0[0x81][0xa7][0xe9]=[0xac][0x98][0x6]![\r][0xa4][0xd6][0x13]H[0x1]&[0xe7][0x1a]4[0xaa]7Tn@[0xcb][0xa8][0x15]L[0xa2]I[0x81]L#[0xc4]9[0xc6]/`r[0xac][0x91]R[0xd5][0xad][0x8d][0xc5][0xa6][0xde]Z[0xe1]|[0xc1][0xb4][0xd9][0xa3][0xde]E[0xdb]0K[0xea](&r[0x85][\n]"
+2019-02-15 09:40:55 DEBUG wire:73 - http-outgoing-0 << "[0x13][0x98][0xaf]!`[0x90]+LOz<[0xd7]e,E[0xca]3[0xdb][0xea]I[0xf4][0xf5][0xfb]dT/[0x3][0xca][0xa2][0x13][0xdb][0xbb][0xdf][0x96][0xf3][0xba]+G[0xad][0xdf][0x0][0x0][0x0][0xff][0xff][0x3][0x0][0xa6][0x13][0x1d][0x8a][0xb8][0x6][0x0][0x0][\r][\n]"
+2019-02-15 09:40:55 DEBUG headers:122 - http-outgoing-0 << HTTP/1.1 404 Not Found
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Date: Fri, 15 Feb 2019 17:41:05 GMT
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Content-Type: text/html
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Transfer-Encoding: chunked
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Connection: keep-alive
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Set-Cookie: __cfduid=dd1b36f9c22ae9ca4b426659631296ee51550252465; expires=Sat, 15-Feb-20 17:41:05 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Last-Modified: Tue, 16 May 2017 18:44:45 GMT
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Server: cloudflare
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << CF-RAY: 4a999033cbf3952f-NRT
+2019-02-15 09:40:55 DEBUG headers:125 - http-outgoing-0 << Content-Encoding: gzip
+2019-02-15 09:40:55 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-02-15 09:40:56 DEBUG ResponseProcessCookies:119 - Cookie accepted [__cfduid="dd1b36f9c22ae9ca4b426659631296ee51550252465", version:0, domain:.freecrm.com, path:/, expiry:Sat Feb 15 09:41:05 PST 2020]
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-0 << "0[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-0 << "[\r][\n]"
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://www.freecrm.com:443] can be kept alive indefinitely
+2019-02-15 09:40:56 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://www.freecrm.com:443][total kept alive: 1; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:40:56 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(https://www.freecrm.com/login.cfm)@1994496244
+2019-02-15 09:40:56 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:40:56 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:40:56 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:40:56 DEBUG HtmlScript:232 - Script node added: <script src="/cdn-cgi/apps/head/jfPYifqkB8EPybW3MBNkYMBNepU.js">
+</script>
+
+2019-02-15 09:40:56 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2019-02-15 09:40:56 DEBUG DefaultManagedHttpClientConnection:79 - http-outgoing-0: Close connection
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2019-02-15 09:40:56 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="about:blank", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:40:56 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(about:blank)@1390301622
+2019-02-15 09:40:56 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:40:56 DEBUG EncodingSniffer:626 - Encoding found in HTTP headers: 'UTF-8'.
+2019-02-15 09:40:56 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="https://www.freecrm.com/login.cfm", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:40:56 DEBUG WebClient:1348 - Load response for GET https://www.freecrm.com/login.cfm
+2019-02-15 09:40:56 DEBUG RequestAddCookies:123 - CookieSpec selected: mine
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 0 of 6; total allocated: 0 of 20]
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 1][route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:40:56 DEBUG MainClientExec:235 - Opening connection {s}->https://www.freecrm.com:443
+2019-02-15 09:40:56 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to www.freecrm.com/104.28.5.47:443
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:337 - Connecting socket to www.freecrm.com/104.28.5.47:443 with timeout 20000
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:395 - Starting handshake
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:425 - Secure session established
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:435 -  peer principal: CN=sni40264.cloudflaressl.com, OU=PositiveSSL Multi-Domain, OU=Domain Control Validated
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:444 -  peer alternative names: [sni40264.cloudflaressl.com, *.bibleblackjack.com, *.callfriends.com, *.crmpro.com, *.eliterealty.land, *.federalagent.org, *.femininex.com, *.freecrm.com, *.fundinmental.com, *.general-assistance.tk, *.guillaume.ninja, *.hoodrobbed.gq, *.ironmaple.com, *.lahren.com, *.langhamauctioneers.com, *.pusheduninterested.cf, *.share-estate.tk, *.telesocial.com, *.toysupermarket.ie, *.vipnetworks.com, *.zodiacstone.com, bibleblackjack.com, callfriends.com, crmpro.com, eliterealty.land, federalagent.org, femininex.com, freecrm.com, fundinmental.com, general-assistance.tk, guillaume.ninja, hoodrobbed.gq, ironmaple.com, lahren.com, langhamauctioneers.com, pusheduninterested.cf, share-estate.tk, telesocial.com, toysupermarket.ie, vipnetworks.com, zodiacstone.com]
+2019-02-15 09:40:56 DEBUG HtmlUnitSSLConnectionSocketFactory:448 -  issuer principal: CN=COMODO ECC Domain Validation Secure Server CA 2, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB
+2019-02-15 09:40:56 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 192.168.1.7:52176<->104.28.5.47:443
+2019-02-15 09:40:56 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 20000
+2019-02-15 09:40:56 DEBUG MainClientExec:256 - Executing request GET /login.cfm HTTP/1.1
+2019-02-15 09:40:56 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-02-15 09:40:56 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-02-15 09:40:56 DEBUG headers:133 - http-outgoing-1 >> GET /login.cfm HTTP/1.1
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Host: www.freecrm.com
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Connection: Keep-Alive
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Upgrade-Insecure-Requests: 1
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Accept-Encoding: gzip, deflate
+2019-02-15 09:40:56 DEBUG headers:136 - http-outgoing-1 >> Accept-Language: en-US
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "GET /login.cfm HTTP/1.1[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Host: www.freecrm.com[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Upgrade-Insecure-Requests: 1[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Accept-Encoding: gzip, deflate[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "Accept-Language: en-US[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 >> "[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "HTTP/1.1 404 Not Found[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Date: Fri, 15 Feb 2019 17:41:06 GMT[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Content-Type: text/html[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Transfer-Encoding: chunked[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Set-Cookie: __cfduid=dc5dd90510091b2738bf32d31ab5128d81550252466; expires=Sat, 15-Feb-20 17:41:06 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Last-Modified: Tue, 16 May 2017 18:44:45 GMT[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Server: cloudflare[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "CF-RAY: 4a99903bdd2a9517-NRT[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "Content-Encoding: gzip[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "342[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8c]Tmo[0xe2]8[0x10][0xfe][0xce][0xaf][0x98][0x1a][0x9d][0xf6][0xcb]%[0xe][0x14][0xba][0x90]&[0x91][0xae][0x94]jWj[0xbb][0x88][0xa5][0xda][0xeb]G[0x93]L[0x12]o[0x83][0x9d][0xda][0xa6][0x84]C[0xfb][0xdf]WNx[0xad][0xe8][0xdd][0x8d][0xa5][0xc4]/[0xf3][0xcc][0x8c][0x9f][0x19]Opq[0xfb]m4{[0x9e][0x8c]!7[0x8b][0x2]&O7[0xf7]_G@[0x1c]J\[0x8e]([0xbd][0x9d][0xdd][0xc2][0xdf]_f[0xf][0xf7][0xd0]q=[0x98])&47\[\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "VP:~$-[0x0] [0xb9]1[0xa5]O[0xe9]j[0xb5]rW[0x97][0xae]T[0x19][0x9d]Mie[0xcd]u,~;u[0xcc][0x11][0xd8]MLB[0xa2]VP[0xfb][0xac][0x16][0x85][0xd0][0xe1][0x19]3[0x9d][0xe1]p[0xd8][0xa0][0x89]U[0xf2][0xb]&[0xb2][0x90][0xa0] [0xb0][0x9f]Y[0x1b][0xc8][0x92][0xa8][0x15][0x18]n[\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[0x8c][0xc6][0xd3][0xe9][0xb7])[0xf4][0xbc][0x1e]8[0xf0]([\r][0xdc][0xc9][0xa5]H.[0x2][0xda][0x9c][0xb6][0x82][0x5][0x1a][0x6][0xd6][0x93][0x83][0xaf]K[0xfe][0x16][0x92][0x91][0x14][0x6][0x85]qf[0xeb][0x12][0x9][0xc4][0xcd]*$[0x6]+C[0xad][0xe7]k[0x88]s[0xa6]4[0x9a]piRg@[0x80][0xee][0xac][0x8][0xb6][0xc0][0x90](9[0x97]F[0x1f]![0x85][0xe4]"[0xc1][0xaa]Q[0xd4][0xb1][0xe2][0xa5][0x1][0xad][0xe2][0x90][0xd0]8[0x11]N[0x9c]q[0xca][0xca]RS[0x1b]5[0xfd][0x99]N[0x9e]y[0xfa][0xfa]r3[0x18]O[0xd6][0xf3][0x1f][0x97][0xf]7[0x8f]/[0xcf][0xf]7[0x8f]X>[0xb9]?5[0x89][0x2][0xda][0x18][0x88][0x2]m[0xd6][0x5][0x82]Y[0x97][0xb8][0x8d]-[0xd6][0xf6][0xfc][0xc2]ql[\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "`.[0x93]5l[0xea][0xa9][0x95]X[0x16]R[0xf9][0xd0][0xee][0xd5]r[0xbd][0xdf][0x9f][0xb3][0xf8]%S[0x96][0x12]g[0xa7]2[0xae][0xe5][0xa0][0x92]Ja[0x9c][0x94]-x[0xb1][0xf6][0xe1][0xd3]L[0xe1]|[0x19][0xe7]h[0xe0][0xe1][0xfb][0xa7]?A3[0xa1][0x1d][0x8d][0x8a][0xa7][0xef][0x0][0x9a][0xff][0x83]>[0xc][0xbc]?[0x9a][0xfd]_[0xf5]7[0xef][0xc0]f;[0xeb][0xc2][0xe6]X[0xb1][0xe3]vqq[0xbd]Uk[0x97],[0xc3][0xcd][0xbf][0xc5]xW[0xcb][0xc1][0xe5][0x8a]'&[0xf7][0xe1]j[0xe7][0xce][0xca][0x82][0xa9][0x8c][0xb][0x1f][0xba][0xbd][0xb2][0x2][0xb6]4[0xf2]pT[0xb2]$[0xe1]"[0xf3][0xa1][0xd3]-[0xab][0xe3][0x0][0xdb]6[0x9][0xa8][0x8e][0x88][0xdb][0xab]^[0x95][0x15][0x1c],X[0xc6][0x1d]V[0xf0]L[0xf8][0x10][0xa3]0[0xa8][0x8e][0xcd][0xb8][0xda]0[0xb3][0xd4][0x97]U[0x5][0x9b]s[0xe1][0xf7]>[0xf7][0xbd][0xcf]W[0xd7][0xf0][0xee]:[0xa7][0xe8][0xde]G[0xe8]Q[0xbf][0xef][0xf5][0xba][0xff][0x81][0xee][0x84][0xbe][0xeb][0x8e][0x7][0x9d][0xbf][0xe]h[0xaf][0x96]=[0xf5][0xdb][0xaa]=[0xc7][0x80][0xe5][0xd1]k[0xe8][0xf4]NHK[0xa5]4'[0xa4][0xed]l_[0xd5]r[0xae][0xda]|h[0xa7]C;[0xce]%[0xc5]++[0xe8]z[0xbb][0xcc]4[0xd5][0xac][0x12]T[0x8e][0x91][0xa5][0xf][0xfd][0xb2][0x82]6[0xa6]v[0x80][0x96][0x5]O[0xce]V[0x9e][0xe7][0xe]p[0xf1][0xf3][0xb5][0xbb][0x1];s[0x87]a-[0xc7][0xda][0x8e]c[0x9f][0xa1]}~Q+[0xa0][0xdb]fc[0xdf][[0xd4][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[0x12][0xfe][0x6]<[0x9][0x89][0xad]`r[0xb4]n[0xea][0x8a]@\0[0xad]C[0xb2][0xcf]p[0xdd][0xae]:[0x1f]6[0xa9][0xbc]c]$[0xfc][0xed][0xc8][0xd4]6C5[0xb2][0x1b][0xcd]r[0x84]T[0x16][0x85]\q[0x91][0x1]*%[0x15][0xc8]8^*[0x85][0x89][0x1f][0xd0][0xbc][0x1b][0xb5][0x82][0xb2][0xd6]R[0xf8][0xba]Dm0[0x81][0xa7][0xe9]=[0xac][0x98][0x6]![\r][0xa4][0xd6][0x13]H[0x1]&[0xe7][0x1a]4[0xaa]7Tn@[0xcb][0xa8][0x15]L[0xa2]I[0x81]L#[0xc4]9[0xc6]/`r[0xac][0x91]R[0xd5][0xad][0x8d][0xc5][0xa6][0xde]Z[0xe1]|[0xc1][0xb4][0xd9][0xa3][0xde]E[0xdb]0K[0xea](&r[0x85][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[0x13][0x98][0xaf]!`[0x90]+LOz<[0xd7]e,E[0xca]3[0xdb][0xea]I[0xf4][0xf5][0xfb]dT/[0x3][0xca][0xa2][0x13][0xdb][0xbb][0xdf][0x96][0xf3][0xba]+G[0xad][0xdf][0x0][0x0][0x0][0xff][0xff][0x3][0x0][0xa6][0x13][0x1d][0x8a][0xb8][0x6][0x0][0x0][\r][\n]"
+2019-02-15 09:40:56 DEBUG headers:122 - http-outgoing-1 << HTTP/1.1 404 Not Found
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Date: Fri, 15 Feb 2019 17:41:06 GMT
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Content-Type: text/html
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Transfer-Encoding: chunked
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Connection: keep-alive
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Set-Cookie: __cfduid=dc5dd90510091b2738bf32d31ab5128d81550252466; expires=Sat, 15-Feb-20 17:41:06 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Last-Modified: Tue, 16 May 2017 18:44:45 GMT
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Server: cloudflare
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << CF-RAY: 4a99903bdd2a9517-NRT
+2019-02-15 09:40:56 DEBUG headers:125 - http-outgoing-1 << Content-Encoding: gzip
+2019-02-15 09:40:56 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-02-15 09:40:56 DEBUG ResponseProcessCookies:119 - Cookie accepted [__cfduid="dc5dd90510091b2738bf32d31ab5128d81550252466", version:0, domain:.freecrm.com, path:/, expiry:Sat Feb 15 09:41:06 PST 2020]
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "0[\r][\n]"
+2019-02-15 09:40:56 DEBUG wire:73 - http-outgoing-1 << "[\r][\n]"
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 1][route: {s}->https://www.freecrm.com:443] can be kept alive indefinitely
+2019-02-15 09:40:56 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 0
+2019-02-15 09:40:56 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 1][route: {s}->https://www.freecrm.com:443][total kept alive: 1; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:40:56 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(https://www.freecrm.com/login.cfm)@1203544037
+2019-02-15 09:40:56 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:40:56 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:40:57 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:40:57 DEBUG HtmlScript:232 - Script node added: <script src="/cdn-cgi/apps/head/jfPYifqkB8EPybW3MBNkYMBNepU.js">
+</script>
+
+2019-02-15 09:41:27 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2019-02-15 09:41:27 DEBUG DefaultManagedHttpClientConnection:79 - http-outgoing-1: Close connection
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2019-02-15 09:41:27 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="about:blank", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:41:27 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(about:blank)@1068445309
+2019-02-15 09:41:27 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:41:27 DEBUG EncodingSniffer:626 - Encoding found in HTTP headers: 'UTF-8'.
+2019-02-15 09:41:27 DEBUG WebClient:381 - Get page for window named '', using WebRequest[<url="https://www.freecrm.com/login.cfm", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]
+2019-02-15 09:41:27 DEBUG WebClient:1348 - Load response for GET https://www.freecrm.com/login.cfm
+2019-02-15 09:41:27 DEBUG RequestAddCookies:123 - CookieSpec selected: mine
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 0 of 6; total allocated: 0 of 20]
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:309 - Connection leased: [id: 2][route: {s}->https://www.freecrm.com:443][total kept alive: 0; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:41:27 DEBUG MainClientExec:235 - Opening connection {s}->https://www.freecrm.com:443
+2019-02-15 09:41:27 DEBUG DefaultHttpClientConnectionOperator:139 - Connecting to www.freecrm.com/104.28.5.47:443
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:337 - Connecting socket to www.freecrm.com/104.28.5.47:443 with timeout 20000
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:395 - Starting handshake
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:425 - Secure session established
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:435 -  peer principal: CN=sni40264.cloudflaressl.com, OU=PositiveSSL Multi-Domain, OU=Domain Control Validated
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:444 -  peer alternative names: [sni40264.cloudflaressl.com, *.bibleblackjack.com, *.callfriends.com, *.crmpro.com, *.eliterealty.land, *.federalagent.org, *.femininex.com, *.freecrm.com, *.fundinmental.com, *.general-assistance.tk, *.guillaume.ninja, *.hoodrobbed.gq, *.ironmaple.com, *.lahren.com, *.langhamauctioneers.com, *.pusheduninterested.cf, *.share-estate.tk, *.telesocial.com, *.toysupermarket.ie, *.vipnetworks.com, *.zodiacstone.com, bibleblackjack.com, callfriends.com, crmpro.com, eliterealty.land, federalagent.org, femininex.com, freecrm.com, fundinmental.com, general-assistance.tk, guillaume.ninja, hoodrobbed.gq, ironmaple.com, lahren.com, langhamauctioneers.com, pusheduninterested.cf, share-estate.tk, telesocial.com, toysupermarket.ie, vipnetworks.com, zodiacstone.com]
+2019-02-15 09:41:27 DEBUG HtmlUnitSSLConnectionSocketFactory:448 -  issuer principal: CN=COMODO ECC Domain Validation Secure Server CA 2, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB
+2019-02-15 09:41:27 DEBUG DefaultHttpClientConnectionOperator:146 - Connection established 192.168.1.7:52177<->104.28.5.47:443
+2019-02-15 09:41:27 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-2: set socket timeout to 20000
+2019-02-15 09:41:27 DEBUG MainClientExec:256 - Executing request GET /login.cfm HTTP/1.1
+2019-02-15 09:41:27 DEBUG MainClientExec:261 - Target auth state: UNCHALLENGED
+2019-02-15 09:41:27 DEBUG MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2019-02-15 09:41:27 DEBUG headers:133 - http-outgoing-2 >> GET /login.cfm HTTP/1.1
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Host: www.freecrm.com
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Connection: Keep-Alive
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Upgrade-Insecure-Requests: 1
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Accept-Encoding: gzip, deflate
+2019-02-15 09:41:27 DEBUG headers:136 - http-outgoing-2 >> Accept-Language: en-US
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "GET /login.cfm HTTP/1.1[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Host: www.freecrm.com[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Connection: Keep-Alive[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Upgrade-Insecure-Requests: 1[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Accept-Encoding: gzip, deflate[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "Accept-Language: en-US[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 >> "[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "HTTP/1.1 404 Not Found[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Date: Fri, 15 Feb 2019 17:41:37 GMT[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Content-Type: text/html[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Transfer-Encoding: chunked[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Connection: keep-alive[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Set-Cookie: __cfduid=dda29a73c9de3a1cbcf23e91c475aa4f11550252497; expires=Sat, 15-Feb-20 17:41:37 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Last-Modified: Tue, 16 May 2017 18:44:45 GMT[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Server: cloudflare[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "CF-RAY: 4a9990fcee0b9517-NRT[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Content-Encoding: gzip[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "22f[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x84]R[0xd1]n[0xda]@[0x10]|[0xe7]+6[0x87][0xaa][0xbc][0xd4]>[0x1b]LB[0x8c][0x8d]T[0x8][0xa8][0x95][0x2]A[0xd4]Q[0xca][0xe3]a[0x1f][0xe6][0x12][0xfb][0xec][0xf8][0x96]b[0x8a][0xfa][0xef][0xd5][0xd9][0x4]h[0x94][0xb4][0xf3]`[0xad]ogf[0xd7]s[0xf6].n[0xef][0x87][0xc1]b6[0x82]5[0xa6][0x9][0xcc][0x1e][0x6]w[0xdf][0x86]@[0xc]J[0x1f][0xdb]CJo[0x83][[0xf8][0xf1]5[0x98][0xdc][0x81]mZ[0x10][0x14]L*[0x81]"[0x93],[0xa1]t4%[\r][0x0] k[0xc4][0xdc][0xa5]t[0xbb][0xdd][0x9a][0xdb][0xb6][0x99][0x15]1[\r][0xe6][0xb4][0xd4]v[0xb6][0xd6][0x1f]J[0x3][0xcf][0xc4]f[0x84][0x11][0xe9]7[0xbc]jf[0x99]&R[0xf9][0xef][0xd8][0xd8]777[0xb5][0x9a]h[0x92][0x9b]0[0x19][0xfb][0x84]K[0x2][0xc7]J{p[0x16][0xf5][0x1b][0x1e][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Lx4[0x9f][0xdf][0xcf][0xc1][0xb1][0x1c]0`[0x9a]![0x8c][0xb3][0x8d][0x8c].<Zw[0x1b]^[0xca][0x91][0x81][0x9e]d[0xf0][0x97][0x8d][0xf8][0xe9][0x93]a&[0x91]K4[0x82]][0xce][0x9][0x84][0xf5][0x9b]O[0x90][0x97]H[0xf5][0xe4][0x1e][0x84]kV([0x8e][0xfe][0x6]WF[0x97][0x0]}u[0x91],[0xe5]>)[0xb2]e[0x86][0xea]L)3!#^[0xd6]D[0x15][0x16]"GPE[0xe8][0x13][0x1a]F[0xd2][0x8]cAY[0x9e]+[0xaa][0xb7][0xa6]O[0xab][0xd9]B[0xac]^[0x9e][0x7][0xdd][0xd1]l[0xb7]|lO[0x6][0xd3][0xe7][0xc5]d0[0xe5][0xf9][0x83][0xf9][0xa4]H[0xdf][0xa3][0xb5]A[0xdf]S[0xb8]K8[0xe0].[0xe7][0x87][0xdd]B[0xa5][0xfb][0x17][0x86][0xa1][0xaf][0x0][0x96]Y[0xb4][0x83]}Uj[0x84]Y[0x92][0x15].4[0x9d][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0xbd][0xe3][0xf9][0x92][0x85][0xcf]q[0xa1]#1^)[0xa3][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "'[0xca]*[0x93]h[0xac]X*[0x92][0x9d][0xb][0x97]A[0xc1][0x97][0x9b]p[0xcd][0x11]&[0xdf]/?[0x83]bR[0x19][0x8a][0x17]b[0xf5]F[0xa0][0xc4]/[0xee]B[0xd7][0xfa]T[0x9f][0xff][0xae][0x9e]k[0x1b][0xf6][0x87][0xaa][0x5][0xfb]s[0xa2]m[0xb6]x[0xda];[0xd0][0x9a]9[0x8b][0xf9][0xfe]_;[0x8e]+[0x9c]FnE[0x84]k[0x17][0xae]^[0xc7]i[0xa4][0xac][0x88][0x85]t[0xa1][0xe5][0xe4]%[0xb0][\r]f[0xa7]V[0xce][0xa2]H[0xc8][0xd8][0x5][0xbb][0x95][0x97][0xe7][0xb]6[0xf5]%[0xf0][0xe2],[0xb8]#[0xf5]*/[0xe1][0xe4][0xa0][0x13]7X"b[0xe9]B[0xc8]%[0xf2][0xe2][0xdc][0xc6]T[0xc8]p[0xa3][0xda]e[0x9][0xfb][0xf7][0xd6]w[0xae];[0xd6][0xf5]U[0xf][0xde]|[0xce][0xdf]j[0xe7]#[0xf5][0xb0][0xd3][0xb1][0x9c][0xd6][0xd4][0x9d][0x8f][0xd4][0xe3][0xd6][0xa8]k9[0xa9][0xad][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0xc7][0xe8][0xf][0xed]{[0x9][0xe8][0x1c][0xad]:N[0xab][0xd7][0x80]?[0x0][0x0][0x0][0xff][0xff][\r][\n]"
+2019-02-15 09:41:27 DEBUG headers:122 - http-outgoing-2 << HTTP/1.1 404 Not Found
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Date: Fri, 15 Feb 2019 17:41:37 GMT
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Content-Type: text/html
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Transfer-Encoding: chunked
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Connection: keep-alive
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Set-Cookie: __cfduid=dda29a73c9de3a1cbcf23e91c475aa4f11550252497; expires=Sat, 15-Feb-20 17:41:37 GMT; path=/; domain=.freecrm.com; HttpOnly; Secure
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Last-Modified: Tue, 16 May 2017 18:44:45 GMT
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Server: cloudflare
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << CF-RAY: 4a9990fcee0b9517-NRT
+2019-02-15 09:41:27 DEBUG headers:125 - http-outgoing-2 << Content-Encoding: gzip
+2019-02-15 09:41:27 DEBUG MainClientExec:285 - Connection can be kept alive indefinitely
+2019-02-15 09:41:27 DEBUG ResponseProcessCookies:119 - Cookie accepted [__cfduid="dda29a73c9de3a1cbcf23e91c475aa4f11550252497", version:0, domain:.freecrm.com, path:/, expiry:Sat Feb 15 09:41:37 PST 2020]
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "132[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0x8c]TMo[0xc3] [0xc][0xbd][0xe7]WX[0xe9]9M[0x1a]i[0xd3]ZQ.;M[0xda]![0xda][0xc7][0xf][0xa0]`[\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "Z[0x1a]g@[0x9b][0xee][0xdf]O[0xd0][0xa6]k[0xa7]L[0x1a]> [0x10][0xb6][0xb1][0xdf][0xf3][0xfb]i[0x9a]&[\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "7M[0x1b]c[0xdf][0xa7]5[0xc5][0xb6][0x15][0xcc][0xf4]2[0xda][0x14](U[0x84][0xba][0x1a][0x91]9[0xb1][0xd9])tE[0xa0]~[0x5]w[0xfd][0x11]f[0xa8][0xa3][0x81][0xa7][0xd6][0xaa]I[0xe6]U[0xf3][0x7][0xdc][0xfd][0x17][0xaf][0xb1][0x2]1Q[0xc3]2[0xad][0xeb][0xd7]E[0x11][0xc7]0[0x8e][0x1f][0xcf]Xy[0x16][0x9b]8o<c[0xca][0x1e][0xc0][0xaa]u[0x1e][0x19][0x9c]_[0x9d]O[0xbc][0xca]A[0xb6][0xc2][0xfb]u~A8[0xc9][0xd5][0xe2]O[0x91]2[0x8b][0x98]B[0xd9][0xc3]U[0xa8]3B[0xc9][0xb3][0xe6]o[0x6]AS[0xdb][0xd2]`[0xbb]-[0xa0]s[0xe4][0x80][0xa4][0xdc];[0x87]j[0xc5]JS[0xf3][0x8c][0xf5][0xe9][0x95][0xc3][0xcf]=[0xfa][0x80][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0xde]_[0x9e]a[0x10][0x1e]:[\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0xa0]c&[0xa0][0xe][0x82][0xb1][0x1e]<[0xba][0x3][0xba]9+{[0x9e][0xb1][0x86]7-[\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0x8f] [\r][0xca][0xf][0x8][0x6][0x93]'[0xb9]$mB[0x86]t5[0xe0]f'|[0xb8]x[0xfd][0xfa][0xed][0xa9][0xb3]y[0xfa]EC[0x3]:T[0xb0][0xf9][0x2]&[0xc0]8[0xd4]7[0x1a]o}/[0xa9][0xd3]v[0x1b][0xa5]>[0xe7]O[0xaf][0xcd]c:[0xb2]R[0xf0][0x9b][0xd8][0xe3]v[0xee]yRe[0x9e]}[0x3][0x0][0x0][0xff][0xff][\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "a[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[0x3][0x0][0xa6][0x13][0x1d][0x8a][0xb8][0x6][0x0][0x0][\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "0[\r][\n]"
+2019-02-15 09:41:27 DEBUG wire:73 - http-outgoing-2 << "[\r][\n]"
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:341 - Connection [id: 2][route: {s}->https://www.freecrm.com:443] can be kept alive indefinitely
+2019-02-15 09:41:27 DEBUG DefaultManagedHttpClientConnection:88 - http-outgoing-2: set socket timeout to 0
+2019-02-15 09:41:27 DEBUG PoolingHttpClientConnectionManager:348 - Connection released: [id: 2][route: {s}->https://www.freecrm.com:443][total kept alive: 1; route allocated: 1 of 6; total allocated: 1 of 20]
+2019-02-15 09:41:27 DEBUG WebWindowImpl:137 - setEnclosedPage: HtmlPage(https://www.freecrm.com/login.cfm)@1343819860
+2019-02-15 09:41:27 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:41:27 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:41:27 DEBUG EncodingSniffer:715 - Encoding found in meta tag: 'UTF-8'.
+2019-02-15 09:41:27 DEBUG HtmlScript:232 - Script node added: <script src="/cdn-cgi/apps/head/jfPYifqkB8EPybW3MBNkYMBNepU.js">
+</script>
+
+2019-02-15 09:41:57 DEBUG WebWindowImpl:211 - destroyChildren
+2019-02-15 09:41:57 DEBUG PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2019-02-15 09:41:57 DEBUG DefaultManagedHttpClientConnection:79 - http-outgoing-2: Close connection
+2019-02-15 09:41:57 DEBUG PoolingHttpClientConnectionManager:414 - Connection manager shut down
